@@ -2,7 +2,7 @@ Rigi Research
 
  [![](images/rigi_logo_500x91.png)](index.html) [![](images/uvic-logo.jpg)](http://www.csc.uvic.ca/) 
 
-We do research in:
+We do research in CPSnbfgfggfg:
 ==================
 
 Self-Adaptive Systems, Cyber-Physical Systems, DevOps, Cognitive Computing
